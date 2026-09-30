@@ -17,4 +17,9 @@ rgs_details = {
     name     = "rg04"
     location = "North Europe"
   }
+
+  rg05 = {
+    name     = "rg05"
+    location = "Southeast Asia"
+  }
 }
